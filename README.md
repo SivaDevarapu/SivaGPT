@@ -51,14 +51,7 @@ SivaGPT/
  └── README.md
 ```
 
-SivaGPT/
-├── backend/
-│    ├── controller/
-│    └── ...
-├── frontend/
-│    ├── src/
-│    └── ...
-└── README.md
+
 
 ````
 
