@@ -41,7 +41,6 @@ SivaGPT is a full-stack web application that integrates **Generative AI** with a
 ## 📂 Project Structure
 
 ```
-```
 SivaGPT/
  ├── GPT-backend/
  │    ├── src/
@@ -51,6 +50,19 @@ SivaGPT/
  │    └── ...
  └── README.md
 ```
+
+SivaGPT/
+├── backend/
+│    ├── controller/
+│    └── ...
+├── frontend/
+│    ├── src/
+│    └── ...
+└── README.md
+
+````
+
+---
 
 ## 🚀 Getting Started
 
@@ -142,6 +154,6 @@ If you like this project, give it a ⭐ on GitHub!
 
 ## 📧 Contact
 
-Created by Siva Devarapu
+Created by **Siva Devarapu**
 
 ---
